@@ -11,7 +11,6 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=ML%2FAI%2FDeep+Learning+Engineer;Problem+Solver;Code+Enthusiast;Always+Learning!" alt="Typing SVG" />
 </h3>
-
 <div align="center">
   <svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -20,10 +19,7 @@
         <stop offset="100%" style="stop-color:#4ecdc4;stop-opacity:1" />
       </linearGradient>
     </defs>
-    <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="36" fill="url(#grad1)" text-anchor="middle" dominant-baseline="middle">
-      Jubayer Al Mahmud
-      <animate attributeName="opacity" values="0;1;0" dur="2.5s" repeatCount="indefinite"/>
-    </text>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Jubayer+Al+Mahmud;" alt="Typing SVG" />
   </svg>
 </div>
 
@@ -58,7 +54,6 @@ I enjoy turning ideas into practical AI models, contributing to open-source proj
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jubayer934&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayer934&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
