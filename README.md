@@ -72,9 +72,9 @@ Some of my favorite works:
 - **[Video Harassment Classifier](https://github.com/Jubayer934/Sexual_Harassment)** — Fine-tuned VideoMAE for video-based harassment detection.  
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
 
-- **[Deep Fake detection with hybrid Model](https://github.com/Jubayer934/Deep-Fake-Detection)** — Built a personalized recommendation engine using TensorFlow and FastAPI.  
+- **[Deep Fake detection with hybrid Model](https://github.com/Jubayer934/Deep-Fake-Detection)** — Hybrid Model(VIT and CNN)
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
-- **[Sign_language_Detection](https://github.com/Jubayer934/Sign_language_Detection)** — Built a personalized recommendation engine using TensorFlow and FastAPI.  
+- **[Sign_language_Detection](https://github.com/Jubayer934/Sign_language_Detection)** — CNN, LSTM, Finetuned.
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
 
 👉 Check out more on my [GitHub Repositories](https://github.com/Jubayer934?tab=repositories)
