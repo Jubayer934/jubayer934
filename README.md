@@ -79,12 +79,6 @@ Some of my favorite works:
 - **[Sign Language Detection](https://github.com/Jubayer934/Sign_language_Detection)** — CNN + LSTM, fine-tuned on real-time gestures.  
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220" />
 
-#### 📱 Flutter & Mobile (Coming Soon!)
-> 🚧 **Actively building my Flutter portfolio** — Stay tuned for:
-> - Clean, responsive UIs with **Flutter + Riverpod**
-> - Apps with **Firebase Auth, Cloud Firestore, and Push Notifications**
-> - AI-integrated mobile apps (ML models in Flutter via TFLite/ONNX)
-
 👉 Explore all projects on my [GitHub Repositories](https://github.com/Jubayer934?tab=repositories)
 
 ---
