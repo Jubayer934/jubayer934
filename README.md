@@ -30,7 +30,7 @@ I enjoy turning ideas into practical AI models, contributing to open-source, and
 - 🔭 **Currently Working On:** Fine-tuning video models (VideoMAE, TimeSformer) + Building my first production-ready Flutter app
 - 🌱 **Currently Learning:** Advanced NLP, MLOps, **Flutter State Management (Riverpod/Bloc)**, Firebase, and Clean Architecture
 - 💬 **Ask Me About:** ML, Python, TensorFlow, PyTorch, **Flutter, Dart, Mobile UI/UX**, or model optimization
-- 📫 **Reach Me At:** [jubayeralmahmud934@gmail.com](mailto:jubayer.am64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jubayer934/) | [Facebook](https://www.facebook.com/jubayer.noshin)
+- 📫 **Reach Me At:** [jubayer.am64@gmail.com](mailto:jubayer.am64@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jubayer934/) | [Facebook](https://www.facebook.com/jubayer.noshin)
 - ⚡ **Fun Fact:** I can debug code faster with coffee than without ☕ (and now with Flutter hot reload!)
 
 ---
